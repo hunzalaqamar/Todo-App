@@ -1,3 +1,5 @@
+#Before Doing NPM Start first do npm i to install all the dependencies and also npm install react react-redux
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
